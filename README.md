@@ -52,8 +52,3 @@ Buka `index.html` di browser (klik dua kali). Tidak perlu server. Font diambil d
 - **Warna dan tema**: variabel warna ada di bagian `:root` pada `css/style.css`.
 - **Angka stat di kartu dan Skill Tree** hanya hiasan bergaya game. Ubah angkanya pada atribut `data-n` (kartu) dan `data-w` (bar skill).
 
-## Catatan privasi
-
-- Alamat rumah pada gambar CV sudah ditutup.
-- Nomor ID pada sertifikat Google Analytics dan RevoU sudah ditutup.
-- Sebelum mengunggah gambar sertifikat baru, periksa apakah ada nomor ID atau data pribadi lain yang perlu ditutup.
